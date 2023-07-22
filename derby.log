@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Mar 21 23:46:19 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0187-076c-bb38-00000e423768 
+on database directory C:\Users\aarya\OneDrive\Desktop\apate695_lab6\TennisBallGames\TeamDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6267c3bb 
+Loaded from file:/C:/Users/aarya/OneDrive/Desktop/apate695_lab6/TennisBallGames/src/main/resources/Lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.2+7-44
+user.dir=C:\Users\aarya\OneDrive\Desktop\apate695_lab6\TennisBallGames
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
